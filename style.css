@@ -425,12 +425,11 @@ nav {
     .last-matches{
         display: grid;
         grid-template-columns: repeat(2,1fr);
-        grid-column-gap: 10px;
         margin: 0;
     }
     .last-match {
         width: 100%;
-        margin: 0px;
+        margin: 5px;
     }
     /* Latest News Responsive */
     .news-blog {
