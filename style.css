@@ -1,0 +1,35 @@
+/**********************************
+    Common Style or Utilities 
+        **********************************/
+body {
+    font-family: 'Poppins', sans-serif;
+}
+/**********************************
+    Home page / first section styling start 
+        **************************************/
+/**********************************
+      Header And Navbar Styling Start
+        **************************************/
+.nav-login-bar {
+    background-color: #2D25A0;
+    width: 81%;
+    height: 44px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+.navigation a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.login-bar a{
+    text-decoration: none;
+    color: #ffffff;
+}
+/**********************************
+      Header And Navbar Styling Start
+        **************************************/
+/**********************************
+    Home page / first section styling end 
+        **************************************/
