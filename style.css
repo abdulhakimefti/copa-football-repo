@@ -372,7 +372,7 @@ nav {
     }
     .home-page-info {
         width: 100%;
-        margin: 46px 66px 50px 0px;
+        margin: 46px 66px 50px 16px;
     }
     .home-page-text {
         font-size: 36px;
@@ -429,5 +429,6 @@ nav {
 .news-blog {
     width: 100%;
     grid-template-columns: repeat(1,1fr);
+    margin: 0;
 }
 }
