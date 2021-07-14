@@ -423,7 +423,7 @@ nav {
 }
 .last-match {
     width: 100%;
-    margin: 0;
+    margin: 10px;
 }
 /* Latest News Responsive */
 .news-blog {
