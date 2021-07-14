@@ -5,6 +5,7 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     margin: 0;
+    
 }
 
 /**********************************
@@ -58,6 +59,7 @@ nav {
 .home-page {
     display: flex;
     background-color: #2D25A0;
+    
 
 }
 .home-page-info {
@@ -92,9 +94,14 @@ nav {
     margin-right: 10.5%;
     margin-top: 49px;
     margin-bottom: 86px;
+    transition: transform 1s ease-in-out ;
 }
 .home-page-banner img{
     width: 115%;
+    
+}
+.home-page:hover .home-page-banner {
+    transform: rotate(360deg) scale(1.1);
 }
 /**********************************
         Home page / first section styling end 
