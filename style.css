@@ -264,10 +264,6 @@ nav {
             margin:  50px;
 
         }
-        .News-blog {
-            display: flex;
-            flex-wrap: wrap;
-        }
         .news {
             width: 300px;
             height: 200px;
@@ -423,9 +419,11 @@ nav {
     display: grid;
     grid-template-columns: repeat(2,1fr);
     grid-column-gap: 10px;
+    margin: 0;
 }
 .last-match {
     width: 100%;
+    margin: 0;
 }
 /* Latest News Responsive */
 .news-blog {
